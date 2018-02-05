@@ -1,0 +1,30 @@
+.header{
+	
+	
+	
+	
+}
+body{
+ background-color:#FFF8F0;
+ animation-name:cm;
+ animation-duration:5s;
+ animation-iteration-count:3;
+ 
+}
+.navigation{
+	
+}
+.content{
+	padding-left:50px;
+	padding-right:50px;
+	
+}
+.page-wrap{
+	padding-top:40px;
+	padding-left:40px;
+padding-right:40px;
+}
+.ar1{
+	padding: 20px;
+	border: 1px solid silver;
+}

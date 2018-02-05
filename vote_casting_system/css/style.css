@@ -1,0 +1,27 @@
+.content{
+	
+	margin-bottom:50px;
+}
+.page-wrap{
+	
+	width:85%;
+	margin:2% auto 2%;
+	background:#FFF8F0;
+}
+.header
+{
+	width:100%;
+	min-height:81px;
+	padding:20px;
+	background:#FFF8F0;
+	
+}
+.main-content{
+	margin-left:150px;
+	margin-bottom:50px;
+	
+}
+.content{
+	
+	padding:20px;
+}
